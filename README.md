@@ -28,8 +28,8 @@
 ---
 
 ## 📊 GitHub Stats
-![Princess's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Princess's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShamsaAbdullahi&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShamsaAbdullahi&layout=compact&theme=radical)
 
 ---
 
@@ -40,5 +40,5 @@ I break things just to fix them better.
 ---
 
 ## 📫 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](YOUR_LINKEDIN_URL)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=firefox)](YOUR_PORTFOLIO_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shamsa-abdullahi-1a00421a1)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=firefox)](https://shamsaabdullahi.github.io/)
