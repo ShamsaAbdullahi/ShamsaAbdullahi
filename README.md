@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# 👋 Hi, I’m Princess
+## Hi there, I'm Shamsaah 👋
 
 💻 Full Stack Engineer | Builder of apps that don’t just work — they *work beautifully*  
 ⚡ Passionate about scalable systems, clean code & automating the boring stuff  
