@@ -25,12 +25,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Princess's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShamsaAbdullahi&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShamsaAbdullahi&layout=compact&theme=radical)
-
----
-
 ## ✨ Fun Fact
 I break things just to fix them better.  
 (99% of the time it works… the other 1% becomes a Stack Overflow post 🙃)
