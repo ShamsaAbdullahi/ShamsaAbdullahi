@@ -23,8 +23,3 @@ I break things just to fix them better.
 </p>
 
 ---
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7952B3,100:FF2D20&height=120&section=footer"/>
-</p>
